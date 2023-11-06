@@ -1,0 +1,5 @@
+Vodka Sour
+Vodka,2,oz
+Lemon Juice,0.5,oz
+Simple Syrup,0.5,oz
+
